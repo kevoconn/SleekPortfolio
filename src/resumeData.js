@@ -116,25 +116,29 @@ let resumeData = {
 
   portfolio: [
     {
-      name: "project1",
+      name: "Workday Scheduler",
       description: "mobileapp",
       imgurl: WorkDayScheduler,
+      url: "https://kevoconn.github.io/WorkDayScheduler/",
     },
     {
-      name: "project2",
+      name: "Weather App",
       description: "mobileapp",
       imgurl: TomSkilling,
+      url: "https://kevoconn.github.io/TomSkillingCanSuckIt/",
       
     },
     {
-      name: "project3",
+      name: "Food App",
       description: "mobileapp",
       imgurl: Takez,
+      url: "https://team-takez.github.io/project-one/",
     },
     {
-      name: "project4",
+      name: "Workout Tracker",
       description: "mobileapp",
       imgurl: Attak,
+      url: "https://attak5.github.io/attak-tracker/"
     },
   ],
 
