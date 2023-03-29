@@ -33,4 +33,4 @@ For further information:
 
 # Screenshot
 
-![screenshot of portfolio](/src/assets/images/SleekPort.png)(/src/assets/images/SleekPort.png)
+![screenshot of portfolio](/src/assets/images/SleekPort.png)
