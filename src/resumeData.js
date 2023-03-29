@@ -2,6 +2,8 @@ import WorkDayScheduler from "./assets/images/WorkDayScheduler.png"
 import TomSkilling from "./assets/images/TomSkilling.png";
 import Takez from "./assets/images/TakezTakeaway.png";
 import Notes from "./assets/images/Note Taker.png";
+import Bruce from "./assets/images/BRUCEBLOG.png";
+import Attak from "./assets/images/AttakTracker.png";
 
 
 let resumeData = {
@@ -140,6 +142,18 @@ let resumeData = {
       imgurl: Notes,
       url: "https://notation-thief.vercel.app/"
     },
+    {
+      name: "BruceBlog",
+      description: "A blog app that allows a user to create, save, and delete blog posts.",
+      imgurl: Bruce,
+      url: "http://thebruceblog.com/"
+    },
+    {
+      name: "Attak Tracker",
+      description: "A workout tracker app that allows a user to create, save, and delete workouts.",
+      imgurl: Attak,
+      url: "https://kevoconn.github.io/attak-trackerz/"
+    }
   ],
 
 };
