@@ -29,7 +29,7 @@ let resumeData = {
       className: "fa fa-twitter",
     },
   ],
-  aboutme: "I am recent bootcamp graduate class of 2023 (WOO-HOO!) and a wannabe junior full-stack developer in Chicago. I am currently employed as a Stationary Engineer but am looking to make the jump to my passion, Web Development.",
+  aboutme: "I am recent bootcamp graduate, class of 2023 (WOO-HOO!), and a wannabe junior full-stack developer in Chicago. I am currently employed as a Stationary Engineer but am looking to make the jump to my passion, Web Development.",
 
   address: "Chicago, IL",
   website: "kevin.oconnor@northwestern.edu",
@@ -117,26 +117,26 @@ let resumeData = {
   portfolio: [
     {
       name: "Workday Scheduler",
-      description: "mobileapp",
+      description: "A calendar application that allows a user to save events for each hour of the day.",
       imgurl: WorkDayScheduler,
       url: "https://kevoconn.github.io/WorkDayScheduler/",
     },
     {
       name: "Weather App",
-      description: "mobileapp",
+      description: "A weather app to search any city and see the current weather and a 5 day forecast.",
       imgurl: TomSkilling,
       url: "https://kevoconn.github.io/TomSkillingCanSuckIt/",
       
     },
     {
       name: "Food App",
-      description: "mobileapp",
+      description: "A food app that allows a user to search for a restaurant and see the menu.",
       imgurl: Takez,
       url: "https://team-takez.github.io/project-one/",
     },
     {
       name: "Workout Tracker",
-      description: "mobileapp",
+      description: "A workout tracker so a user can create and track daily workouts.",
       imgurl: Attak,
       url: "https://attak5.github.io/attak-tracker/"
     },
