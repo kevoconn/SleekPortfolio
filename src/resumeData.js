@@ -1,7 +1,7 @@
 import WorkDayScheduler from "./assets/images/WorkDayScheduler.png"
 import TomSkilling from "./assets/images/TomSkilling.png";
 import Takez from "./assets/images/TakezTakeaway.png";
-import Attak from "./assets/images/AttakTracker.png";
+import Notes from "./assets/images/Note Taker.png";
 
 
 let resumeData = {
@@ -119,7 +119,7 @@ let resumeData = {
       name: "Workday Scheduler",
       description: "A calendar application that allows a user to save events for each hour of the day.",
       imgurl: WorkDayScheduler,
-      url: "https://kevoconn.github.io/WorkDayScheduler/",
+      url: "https://kevoconn.github.io/DailyChores/",
     },
     {
       name: "Weather App",
@@ -135,10 +135,10 @@ let resumeData = {
       url: "https://team-takez.github.io/project-one/",
     },
     {
-      name: "Workout Tracker",
-      description: "A workout tracker so a user can create and track daily workouts.",
-      imgurl: Attak,
-      url: "https://attak5.github.io/attak-tracker/"
+      name: "Note Taker",
+      description: "A note taker app that allows a user to create, save, and delete notes.",
+      imgurl: Notes,
+      url: "https://notation-thief.vercel.app/"
     },
   ],
 
