@@ -4,6 +4,7 @@ import Takez from "./assets/images/TakezTakeaway.png";
 import Notes from "./assets/images/Note Taker.png";
 import Bruce from "./assets/images/BRUCEBLOG.png";
 import Attak from "./assets/images/AttakTracker.png";
+import Tenner from "./assets/images/Tenner.png";
 
 
 let resumeData = {
@@ -153,6 +154,12 @@ let resumeData = {
       description: "A workout tracker app that allows a user to create, save, and delete workouts.",
       imgurl: Attak,
       url: "https://kevoconn.github.io/attak-trackerz/"
+    },
+    {
+      name: "Tenner",
+      description: "A freelance app that allows a user to create requests, edit, and correspond with requester to complete task.",
+      imgurl: Tenner,
+      url: "https://tack-a-tenner.herokuapp.com/"
     }
   ],
 
