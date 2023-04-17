@@ -20,6 +20,8 @@ Use the navigation bar to navigate to the different sections of the portfolio. T
 
 Kevin O'Connor
 
+[Rahul Bhatia](https://github.com/rbhatia46/React-Portfolio)
+
 # Questions
 
 For further information:
@@ -33,4 +35,4 @@ For further information:
 
 # Screenshot
 
-![screenshot of portfolio](/src/assets/images/SleekPort.png)(/src/assets/images/SleekPort.png)
+![screenshot of portfolio](/src/assets/images/SleekPort.png)
